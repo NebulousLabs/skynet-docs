@@ -26,10 +26,14 @@ async function uploadExample() {
 ```
 
 ```javascript--node
+const fs = require('fs');
+const path = require('path');
 const skynet = require('@nebulous/skynet');
 
 (async () => {
-	const skylink = await skynet.uploadFile("./image.jpg");
+	const skylink = await skynet.uploadFile(
+    path.join(__dirname, '.', image.jpg)
+  );
 	console.log(`Upload successful, skylink: ${skylink}`);
 })();
 ```
