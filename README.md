@@ -1,5 +1,7 @@
 # Skynet SDK Docs
 
+> :warning: This repo has been archived and moved under the new [SkynetHQ](https://github.com/SkynetHQ) repo [here](https://github.com/SkynetHQ/skynet-docs)
+
 Documentation for the Skynet SDKs in various languages:
 
 - Shell (using curl)
