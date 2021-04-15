@@ -1,6 +1,6 @@
 # Skynet SDK Docs
 
-> :warning: This repo has been archived and moved under the new [SkynetHQ](https://github.com/SkynetHQ) repo [here](https://github.com/SkynetHQ/skynet-docs)
+> :warning: This repo has been archived and moved under the new [SkynetLabs](https://github.com/SkynetLabs) repo [here](https://github.com/SkynetLabs/skynet-docs)
 
 Documentation for the Skynet SDKs in various languages:
 
